@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nyzme</title>
+    <link>https://nyzme.com/</link>
+    <description>Recent content on nyzme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 04 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nyzme.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The hunt for the cheapest infra</title>
+      <link>https://nyzme.com/blog/the-hunt-for-the-cheapest-infra/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nyzme.com/blog/the-hunt-for-the-cheapest-infra/</guid>
+      <description>The Goal The main requirement is it need be to cheap.
+It also need to be a general purpose infrastracture that can be utilize by a varities of roles, and of course to make it fair with negligible traffic and hardware load. Server capabilities should be open enough for customization to serve as a database, backend, to frontend server on any platform and language as needed.
+The cheapest VPS Following are the considered options are:</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://nyzme.com/about/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nyzme.com/about/</guid>
+      <description>This will soon be filled with my musing, showerthought, and all random stuff I want to write down :)</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://nyzme.com/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nyzme.com/home/</guid>
+      <description>A personal site for web presence, because why not?</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://nyzme.com/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nyzme.com/license/</guid>
+      <description>The MIT License (MIT)
+Copyright &amp;copy; 2018
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
+    
+  </channel>
+</rss>

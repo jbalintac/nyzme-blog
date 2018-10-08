@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lightsail on nyzme</title>
+    <link>https://nyzme.com/tags/lightsail/</link>
+    <description>Recent content in Lightsail on nyzme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 04 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nyzme.com/tags/lightsail/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The hunt for the cheapest infra</title>
+      <link>https://nyzme.com/blog/the-hunt-for-the-cheapest-infra/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nyzme.com/blog/the-hunt-for-the-cheapest-infra/</guid>
+      <description>The Goal The main requirement is it need be to cheap.
+It also need to be a general purpose infrastracture that can be utilize by a varities of roles, and of course to make it fair with negligible traffic and hardware load. Server capabilities should be open enough for customization to serve as a database, backend, to frontend server on any platform and language as needed.
+The cheapest VPS Following are the considered options are:</description>
+    </item>
+    
+  </channel>
+</rss>
